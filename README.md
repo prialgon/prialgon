@@ -15,4 +15,4 @@
 
 
 <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=prialgon&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt="">
-<img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prialgon&amp;theme=dark&amp;hide_border=false" alt="">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=prialgon&theme=dark" alt="GitHub Streak" /></a>
