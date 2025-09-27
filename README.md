@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Prieto</h1>
 <h3 align="center">Student of the Bachelor's Degree in Mathematical Engineering & Artificial Intelligence @ Comillas ICAI</h3>
 
-- 🔭 I’m currently working on **ISC IFS-07**
+- 🔭 I’m currently working on **AutoGrader** @ ICAI
 
 - 🌱 I’m currently learning **Artificial Intelligence & Cybersecurity**
 
